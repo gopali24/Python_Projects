@@ -11,3 +11,11 @@
 - Run the password_manager.py file and choose the option of either adding or viewing( Please view only after adding)
 - If you choose add: Enter the username and password. It gets updated in the passwords.txt file( Dont worry its safe)
 - If you choose view: All the usernames and the passwords are displayed
+
+---
+
+## QR code generator
+- Run the code
+- Enter the site whose QR you want
+- Enter a name for your QR and BOOM!!
+- Your QR is ready
