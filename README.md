@@ -19,3 +19,10 @@
 - Enter the site whose QR you want
 - Enter a name for your QR and BOOM!!
 - Your QR is ready
+
+---
+
+## Voice Recorder
+- Enter a time limit for your recording or choose one from the suggested options
+- Enter a filename or you can just let it be
+- And your recording has started. Enjoy your beautiful voice by running the .wav file created
