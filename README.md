@@ -26,3 +26,9 @@
 - Enter a time limit for your recording or choose one from the suggested options
 - Enter a filename or you can just let it be
 - And your recording has started. Enjoy your beautiful voice by running the .wav file created
+
+---
+
+## Age calulator
+- Enter your Date of birth and find your age
+- Run the program for differnce betwwen 2 dates to get the difference in years, months and days
