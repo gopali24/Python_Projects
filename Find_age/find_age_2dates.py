@@ -43,7 +43,6 @@ y1=int(y1)
 m1=int(m1)
 d1=int(d1)
 if valid_date(y,m,d) and valid_date(y1,m1,d1):
-    # find_greater(y,m,d,y1,m1,d1)
-    age_calc(y,m,d,y1,m1,d1)
+    find_greater(y,m,d,y1,m1,d1)
 else:
     print("Enter a valid date -_-")
